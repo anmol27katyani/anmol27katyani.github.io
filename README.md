@@ -1,4 +1,6 @@
-# octamois.github.io
-[![DUB](https://img.shields.io/dub/l/vibe-d.svg?style=plastic)]()
+padamchopra.github.io  <br>
+[![Build Status](https://api.travis-ci.org/jeromelachaud/freelancer-theme.svg?branch=master)](https://travis-ci.org/jeromelachaud/freelancer-theme/)
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/padamchopra)
+=========================
 
-It is my upcoming portfolio page.
+View the webiste [here](https://padamchopra.github.io/)
